@@ -1,4 +1,4 @@
-# 👋 Hi, I am Anjali Yadav
+# 👋 Hi, I'm Anjali Yadav
 
 -I am third year Btech CSE student.
 
