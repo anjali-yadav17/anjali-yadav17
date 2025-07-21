@@ -1,6 +1,6 @@
-# 💫 About Me:
+# Hi, I am Anjali Yadav
 
-Hii, I am Anjali!!<br>I am third year Btech CSE student.
+-I am third year Btech CSE student.
 
 ---
 
