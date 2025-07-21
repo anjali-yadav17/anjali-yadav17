@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anjali Yadav
 
--I am third year Btech CSE student.
+I am third year Btech CSE student
 
 ---
 
