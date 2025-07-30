@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anjali Yadav
 
-💻 An aspiring Software Engineer focused on building efficient, scalable solutions.
-🧠 Enthusiastic about problem-solving, debugging, and clean code practices.
+- 💻 An aspiring Software Engineer focused on building efficient, scalable solutions.
+- 🧠 Enthusiastic about problem-solving, debugging, and clean code practices.
 ---
 
 ## 🛠️ Tech Toolbox:
