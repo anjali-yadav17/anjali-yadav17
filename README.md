@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Anjali Yadav
 
-💻 An aspiring Software Engineer focused on building efficient, scalable solutions. Passionate about clean code, algorithmic problem-solving, and continuous learning.
+🎓 B.Tech CSE | Aspiring Software Engineer
+🔧 Passionate about algorithms, system design & building real-world solutions
 
 ---
 
