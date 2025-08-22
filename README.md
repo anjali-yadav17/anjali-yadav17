@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anjali Yadav
 
-💻 Aspiring Software Engineer focused on building efficient, scalable solutions. Passionate about clean code, algorithmic problem-solving, and continuous learning.
+💻 An aspiring Software Engineer focused on building efficient, scalable solutions. Passionate about clean code, algorithmic problem-solving, and continuous learning.
 
 ---
 
